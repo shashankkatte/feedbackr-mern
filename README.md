@@ -19,3 +19,14 @@ A MERN full stack survey app
 - google project setup
 
 - securing API keys
+
+- Google strategy options
+
+- Testing OAuth
+
+- Authorized Redirect URIs
+
+- OAuth Callbacks
+
+- Access and refresh tokens
+
