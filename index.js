@@ -1,11 +1,13 @@
 const express = require('express');
+const passport = require('passport');
+const GoogleStrategy = require('passport-google-oauth20').Strategy;
 
 const app = express();
 
+// Use google to Authenticate user
+passport.use(new GoogleStrategy());
+
 //  create a route handler
-app.get('/', (req, res) => {
-  res.send({ hi: "Im on heroku" });
-});
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
