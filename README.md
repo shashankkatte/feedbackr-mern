@@ -30,3 +30,8 @@ A MERN full stack survey app
 
 - Access and refresh tokens
 
+### Working with MondoDB using mongoose
+
+- Wiring up mongoose
+
+- Using MongoDB atlas free instance
