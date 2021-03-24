@@ -32,6 +32,8 @@ A MERN full stack survey app
 
 - serialize and deserialize user
 
+- Enabling cookies
+
 ### Working with MondoDB using mongoose
 
 - Wiring up mongoose
