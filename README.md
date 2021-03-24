@@ -41,3 +41,7 @@ A MERN full stack survey app
 - Using MongoDB atlas free instance
 
 - Mongoose query
+
+### Heroku
+
+- Setting env variables
