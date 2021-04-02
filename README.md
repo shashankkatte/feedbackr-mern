@@ -51,3 +51,5 @@ A MERN full stack survey app
 ### Create react App
 
 - Wiring up redux and reducers from scratch
+
+- Wiring and using React Router with exact keyword
