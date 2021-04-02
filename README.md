@@ -55,3 +55,7 @@ A MERN full stack survey app
 - Wiring and using React Router with exact keyword
 
 - Routes and always visible components.
+
+### Styling with Materialize css
+
+- Using webpack to import css
