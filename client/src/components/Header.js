@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
 
-export default class Header extends Component {
+class Header extends Component {
   render() {
     return (
       <nav>
-        <div class="nav-wrapper">
-          <a class="left brand-logo">FeedbackR</a>
-          <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <div className="nav-wrapper">
+          <a className="left brand-logo">
+            Emaily
+          </a>
+          <ul className="right">
             <li>
-              <a>Login with Google</a>
+              <a>Login With Google</a>
             </li>
           </ul>
         </div>
@@ -16,3 +18,5 @@ export default class Header extends Component {
     );
   }
 }
+
+export default Header;
