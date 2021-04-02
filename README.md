@@ -52,9 +52,11 @@ A MERN full stack survey app
 
 - Wiring up redux and reducers from scratch
 
-- Wiring and using React Router with exact keyword
+- Wiring and using React router with exact keyword
 
 - Routes and always visible components.
+
+- Using Link tags from React router
 
 ### Styling with Materialize css
 
