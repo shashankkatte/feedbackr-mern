@@ -47,3 +47,7 @@ A MERN full stack survey app
 - Setting env variables
 
 - Mongo db uri key has to be `MONGODB_URI` for Heroku! wierd but yes!
+
+### Create react App
+
+- Wiring up redux and reducers from scratch
