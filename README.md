@@ -51,3 +51,13 @@ A MERN full stack survey app
 ### Create react App
 
 - Wiring up redux and reducers from scratch
+
+- Wiring and using React router with exact keyword
+
+- Routes and always visible components.
+
+- Using Link tags from React router
+
+### Styling with Materialize css
+
+- Using webpack to import css
