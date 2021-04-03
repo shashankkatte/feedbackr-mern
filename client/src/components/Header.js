@@ -12,8 +12,8 @@ class Header extends Component {
         return <li><a href="/auth/google">Login With Google</a></li>;
       default:
         return [
-          <li><Payments /></li>,
-          <li><a href="/api/logout">Logout</a></li>
+          <li key="1"><Payments /></li>,
+          <li key="2"><a href="/api/logout">Logout</a></li>
         ];
     }
   }
@@ -26,7 +26,7 @@ class Header extends Component {
             to={this.props.auth ? '/surveys' : '/'}
             className="left brand-logo"
           >
-            Emaily
+             FeedbackR
           </Link>
           <ul className="right">
             {this.renderContent()}
