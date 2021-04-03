@@ -105,3 +105,5 @@ dist
 
 # secrets
 dev.js
+
+.DS_Store
