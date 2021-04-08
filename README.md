@@ -1,7 +1,11 @@
+
 # FeedbackR
 ![ViewCount](https://views.whatilearened.today/views/github/shashankkatte/feedbackr-mern.svg)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-success.svg?style=flat-square)](./CONTRIBUTING.md)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20Open-Source%20project%20MERN%20stack.%20By%20@shashankkatte&url=https://github.com/shashankkatte/feedbackr-mern&hashtags=100DaysofCode 'Tweet this project')
+
+![Feedbackr](Feedbackr-banner.png)
 
 A MERN full stack survey app
 
