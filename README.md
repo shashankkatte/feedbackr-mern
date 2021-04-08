@@ -1,4 +1,7 @@
 # FeedbackR
+![ViewCount](https://views.whatilearened.today/views/github/shashankkatte/feedbackr-mern.svg)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-success.svg?style=flat-square)](./CONTRIBUTING.md)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 
 A MERN full stack survey app
 
