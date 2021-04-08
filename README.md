@@ -6,7 +6,20 @@
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20Open-Source%20project%20MERN%20stack.%20By%20@shashankkatte&url=https://github.com/shashankkatte/feedbackr-mern&hashtags=100DaysofCode 'Tweet this project')
 ![Feedbackr](Feedbackr-banner.png)
 
-A MERN full stack survey app
+Feedbackr is an Opensource and free survey app. :memo:. Use it as a starter app to build your own custom feedback collection App or use it as your reference to explore a production ready MERN App. This is an evolving app, contributions are welcome! Learn how to contribute to this repo [here](./CONTRIBUTING.md)
+
+## Getting started
+
+### Clone/Fork source code and install dependencies
+
+ ➡️ 1. Clone the repo using `git clone https://github.com/shashankkatte/feedbackr-mern.git`
+ 
+ ➡️ 2. Navigate into the root folder `cd feedbackr-mern` and run `npm install` 
+ 
+ ➡️ 3. Navigate into the client directory `cd feedbackr-mern/client` and run  `npm install` to install dependencies for React App
+
+### Getting necessary third-pary API keys
+1. 
 
 ## Concepts covered
 
