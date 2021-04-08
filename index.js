@@ -11,6 +11,7 @@ mongoose.connect(keys.mongoURI);
 
 const app = express();
 
+//  You dont need bodyparcer, express now can handle itself
 app.use(express.json());
 
 app.use(
