@@ -31,7 +31,8 @@ If you are exploring MERN stack, this app will show you:
 contributions are welcome! Learn how to contribute to this repo [here](./CONTRIBUTING.md)
 
 
-:globe_with_meridians:[Live link](https://feedbakr-mern.herokuapp.com/)
+:globe_with_meridians:[Live link](https://feedbakr-mern.herokuapp.com/) 
+> use `4242 4242 4242 4242` as sample credit card
 
 ## Getting started
 
