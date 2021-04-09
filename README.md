@@ -10,16 +10,23 @@ Feedbackr is an Opensource and free survey app. :memo:. Use it as a starter app 
 
 ## Getting started
 
+Please follow these instruction in the order presented for a smooth setup process. since this app relies on many other third party dependencies, it is essential that we get this right.
+
 ### Clone/Fork source code and install dependencies
 
- ➡️ 1. Clone the repo using `git clone https://github.com/shashankkatte/feedbackr-mern.git`
- 
- ➡️ 2. Navigate into the root folder `cd feedbackr-mern` and run `npm install` 
- 
- ➡️ 3. Navigate into the client directory `cd feedbackr-mern/client` and run  `npm install` to install dependencies for React App
+ 1. Clone the repo using `git clone https://github.com/shashankkatte/feedbackr-mern.git` or if using ssh `git@github.com:shashankkatte/feedbackr-mern.git`
 
-### Getting necessary third-pary API keys
-1. 
+ 2. Navigate into the root folder `cd feedbackr-mern` and run `npm install` this installs all the npm dependencies for our servir side of the project.
+
+ 3. Next navigate into the client directory `cd feedbackr-mern/client` and run  `npm install` to install dependencies for React App
+
+### Getting necessary third-party API keys
+
+we use a few third party services and dependencies here's how to set them up, yes everything is FREE!
+
+1. Create a google project and get a OAuth API key [here](Docs/googleAuth.md)
+
+2. Register for account at [MongoDB Atlas](Docs/mongoAtlas.md)
 
 ## Concepts covered
 
