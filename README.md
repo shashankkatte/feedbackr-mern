@@ -8,6 +8,26 @@
 ![Feedbackr](Feedbackr-banner.png)
 Feedbackr is an Opensource and free survey app. :memo:. Use it as a starter app to build your own custom feedback collection App or use it as your reference to explore a production ready MERN App.
 
+If you are exploring MERN stack, this app will show you:
+
+- how to use **React and Redux**
+
+- Routing with **React routing**
+
+- Using reusable **Redux Forms**
+
+- Payments with **Stripe**
+
+- **Google OAuth Authentication** with **Passport.js**
+
+- Persisting data into **MongoDB** and using **Mongoose**
+
+- Using **webhooks** 
+
+- Sending Automated **Emails**
+
+- **API key handling techniques** and  Deployment strategy with configs to **Heroku**
+
 contributions are welcome! Learn how to contribute to this repo [here](./CONTRIBUTING.md)
 
 
