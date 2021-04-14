@@ -46,7 +46,7 @@ Please follow these instruction in the order presented for a smooth setup proces
 
     or if using ssh
 
-    `git@github.com:shashankkatte/feedbackr-mern.git`
+    `git clone git@github.com:shashankkatte/feedbackr-mern.git`
 
  2. Navigate into the root folder 
  
